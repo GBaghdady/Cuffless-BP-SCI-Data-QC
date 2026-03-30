@@ -19,3 +19,4 @@ This repository contains analysis code only. It does not provide clinical diagno
 
 ## Data
 Real patient data are not publicly shared due to confidentiality. A synthetic or anonymised example dataset may be added separately.
+A synthetic or anonymised example dataset may be provided separately.
