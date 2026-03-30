@@ -6,7 +6,7 @@ This repository contains the reproducible analysis pipeline used for cuffless bl
 ## Run in Google Colab
 Open the notebook directly in Colab using the link below:
 
-[Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/cuffless-bp-sci-validation/blob/main/notebook/SCI_BP_Analysis.ipynb)
+[Open in Colab](https://colab.research.google.com/github/GBaghdady/Cuffless-BP-SCI-Data-QC/blob/main/Signal_QC_Pipeline.ipynb)
 
 ## How to use
 1. Open the notebook in Colab
