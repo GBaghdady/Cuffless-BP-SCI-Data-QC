@@ -18,5 +18,15 @@ Open the notebook directly in Colab using the link below:
 This repository contains analysis code only. It does not provide clinical diagnosis.
 
 ## Data
-Real patient data are not publicly shared due to confidentiality. A synthetic or anonymised example dataset may be added separately.
-A synthetic or anonymised example dataset may be provided separately.
+
+The folder `data/` contains example input files required to run the QC pipeline.
+
+These data are provided **for demonstration and reproducibility only**.  
+No identifiable patient information is included.
+
+### Files
+- `example_data.csv` — Sample dataset used to demonstrate the signal QC pipeline.
+
+Real patient datasets are not publicly shared due to confidentiality.  
+Researchers may request access through the appropriate institutional processes.
+
