@@ -40,7 +40,7 @@ No identifiable patient information is included.
 - [`Example Data.xlsx`](data/Example%20Data.xlsx) — Sample dataset used to demonstrate the signal QC pipeline.
 
 Real patient datasets are not publicly shared due to confidentiality.  
-Researchers may request access through the appropriate institutional processes.
+
 
 ---
 
